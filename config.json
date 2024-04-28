@@ -1,0 +1,29 @@
+{
+    "window": {
+        "width": 1280,
+        "height": 680
+    },
+    "default_line_num": 5,
+    "category": {
+        "TX": "全文",
+        "CL": "請求の範囲",
+        "AB": "要約抄録",
+        "TI": "発明の名称",
+        "AP": "出願人",
+        "IN": "発明者",
+        "FT": "Fターム",
+        "FI": "FI"
+    },
+    "input_row": {
+        "idx": 0,
+        "del_btn": 1,
+        "category": 2,
+        "txt_in": 3,
+        "sw_near": 4,
+        "txt_in_2": 5,
+        "near_num": 6,
+        "sw_front_back": 7,
+        "update_btn": 8,
+        "txt_out": 9
+    }
+}
